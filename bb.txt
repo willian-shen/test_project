@@ -1,1 +1,2 @@
 fningilrnigAddInBUg2
+addNewLine With Bug2
