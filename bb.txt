@@ -1,1 +1,2 @@
 fningilrnigqqqqqewxxxaadddMakeConflict2and3
+addNewLine With Bug2
